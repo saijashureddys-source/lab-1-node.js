@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
 // GET /about - About route
 app.get('/about', (req, res) => {
     res.status(200).json({
-        name: 'Varun Kumar',
+        name: 'R Sai Jaswanth Reddy',
         section: 'CSE FSD 2B'
     });
 });

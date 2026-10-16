@@ -2,7 +2,7 @@
 
 ## Student Details
 
-- **Name:** Varun Kumar
+- **Name:** R Sai Jaswanth Reddy
 - **Section:** CSE FSD 2B
 - **Course:** Backend Development Fundamentals
 - **Lab Number:** 01

@@ -6,10 +6,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "- **Name:** R Sai Jaswanth Reddy\r - **Section:** CSE FSD 2B\r - **Course:** Backend Development Fundamentals\r - **Lab Number:** 01",
   "dependencies": {
     "express": "^5.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunkumaruppari/Backend_Development_Fundamentals-L1.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/varunkumaruppari/Backend_Development_Fundamentals-L1/issues"
+  },
+  "homepage": "https://github.com/varunkumaruppari/Backend_Development_Fundamentals-L1#readme"
 }
