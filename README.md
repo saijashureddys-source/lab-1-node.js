@@ -11,6 +11,9 @@
 
 To create and test basic HTTP and Express.js servers using Node.js, implement multiple routes, and handle HTTP status codes.
 
+## live link
+https://backend-development-fundamentals-l1.onrender.com
+
 ## Technologies Used
 
 - Node.js
@@ -113,24 +116,6 @@ Displays the 404 response for an undefined route.
 - **200 OK:** The request was processed successfully.
 - **404 Not Found:** The requested route does not exist.
 
-## Viva Questions
-
-### 1. What is Node.js?
-
-Node.js is a JavaScript runtime that allows JavaScript code to run outside a web browser.
-
-### 2. What is Express.js?
-
-Express.js is a Node.js framework used to build web servers and handle HTTP requests and responses.
-
-### 3. What does `app.listen()` do?
-
-It starts the Express server and makes it listen for incoming requests on a specified port.
-
-### 4. What do request and response represent?
-
-- **Request (`req`):** Contains information about the incoming request.
-- **Response (`res`):** Sends data and status codes back to the client.
 
 ## Problems Faced and Solutions
 
